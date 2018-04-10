@@ -1,4 +1,4 @@
-# MIT Humanitarian Hack
+# The MIT Humanitarian Hackathon
 
 Welcome to the MIT Humanitarian Hackathon site! 
 
