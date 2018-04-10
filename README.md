@@ -1,6 +1,6 @@
 # The MIT Humanitarian Hackathon
 
-Welcome to the MIT Humanitarian Hackathon site! 
+Welcome to the [MIT Humanitarian Hackathon site](https://mitmedialab.github.io/MIT-Humanitarian-Hack)! 
 
 We worked with various representative from IFRC, Red Cross Climate Center and developed the challenge statement. Here is the link to challenge statement Link: [https://goo.gl/pVvqSp](https://goo.gl/pVvqSp) for you reference.  
 
