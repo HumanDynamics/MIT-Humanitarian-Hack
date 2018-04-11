@@ -1,11 +1,16 @@
 # The MIT Humanitarian Hackathon
 
-Welcome to the [MIT Humanitarian Hackathon site](https://mitmedialab.github.io/MIT-Humanitarian-Hack)! 
+<img width="577" alt="screen shot 2018-04-11 at 11 23 46 am" src="https://user-images.githubusercontent.com/2357755/38626631-ff0396b0-3d7a-11e8-9695-7b99f8d9162d.png">
 
-We worked with various representative from IFRC, Red Cross Climate Center and developed the challenge statement. 
+> Welcome to the [MIT Humanitarian Hackathon site](https://mitmedialab.github.io/MIT-Humanitarian-Hack)! 
 
-We invite participants to hack a project that solves our challenge, available at: [https://goo.gl/pVvqSp](https://goo.gl/pVvqSp)
+* **Hackathon Registration:** [https://www.eventbrite.com/e/mit-fintech-and-design-hackathon-tickets-41403861063](https://www.eventbrite.com/e/mit-fintech-and-design-hackathon-tickets-41403861063)
 
+## Hackathon Challenge 
+
+We worked with various representative from IFRC, Red Cross Climate Center and developed the challenge statement. We invite participants to hack a project that solves our challenge, available at: [https://goo.gl/pVvqSp](https://goo.gl/pVvqSp)
+
+## Hackathon Overview
 
 **The Hackathon will happen on Apr 20, 21 and 22 held at Bartos Theater, MIT Media Lab** and we look forward you joining us.
 
