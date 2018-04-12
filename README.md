@@ -12,7 +12,7 @@ We worked with various representative from IFRC, Red Cross Climate Center and de
 
 ## Hackathon Overview
 
-**The Hackathon will happen on Apr 20, 21 and 22 held at Bartos Theater, MIT Media Lab** and we look forward you joining us.
+**The Hackathon will happen on Apr 20, 21 and 22 held at Bartos Theater, MIT Media Lab** and we look forward to you joining us.
 
 Here is tentative schedule with dates and subject to change:
 
