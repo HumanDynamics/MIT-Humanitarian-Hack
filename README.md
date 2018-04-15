@@ -1,6 +1,6 @@
 # The MIT Humanitarian Hackathon
 
-<img width="577" alt="screen shot 2018-04-11 at 11 23 46 am" src="https://user-images.githubusercontent.com/32018755/38773644-d4d789e4-401f-11e8-830d-eabc2a751baf.jpeg">
+<img width="577" alt="screen shot 2018-04-11 at 11 23 46 am" src="https://user-images.githubusercontent.com/32018755/38773687-f4bc2b88-4020-11e8-8d85-8d302ae62989.png">
 
 > Welcome to the [MIT Humanitarian Hackathon site](https://mitmedialab.github.io/MIT-Humanitarian-Hack)! 
 
