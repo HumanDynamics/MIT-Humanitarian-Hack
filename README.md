@@ -8,7 +8,7 @@
 
 ## Hackathon Challenge 
 
-We worked with various representative from IFRC, Red Cross Climate Center and developed the challenge statement. We invite participants to hack a project that solves our challenge, available at: [https://github.com/mitmedialab/MIT-Humanitarian-Hack/blob/master/MITHack_HumanitarianFinancing_Challenge%20Statement.docx](Future Financing) [https://github.com/mitmedialab/MIT-Humanitarian-Hack/blob/master/MITHack_HumanitarianFinancing_Challenge%20Statement2.docx] (Identity and Consent Management)
+We worked with various representative from IFRC, Red Cross Climate Center and developed the challenge statement. We invite participants to hack a project that solves our challenge, available at: [https://github.com/mitmedialab/MIT-Humanitarian-Hack/blob/master/MITHack_HumanitarianFinancing_Challenge%20Statement.docx] (Future Financing) [https://github.com/mitmedialab/MIT-Humanitarian-Hack/blob/master/MITHack_HumanitarianFinancing_Challenge%20Statement2.docx] (Identity and Consent Management)
 
 ## Hackathon Overview
 
