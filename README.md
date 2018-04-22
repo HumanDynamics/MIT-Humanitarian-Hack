@@ -1,10 +1,18 @@
-# MIT Humanitarian Hack
+# The MIT Humanitarian Hackathon
 
-Welcome to the MIT Humanitarian Hackathon site! 
+<img width="577" alt="screen shot 2018-04-11 at 11 23 46 am" src="https://user-images.githubusercontent.com/32018755/38773687-f4bc2b88-4020-11e8-8d85-8d302ae62989.png">
 
-We worked with various representative from IFRC, Red Cross Climate Center and developed the challenge statement. Here is the link to challenge statement Link: [https://goo.gl/pVvqSp](https://goo.gl/pVvqSp) for you reference.  
+> Welcome to the [MIT Humanitarian Hackathon site](https://mitmedialab.github.io/MIT-Humanitarian-Hack)! 
 
-**The Hackathon will happen on Apr 20, 21 and 22 held at Bartos Theater, MIT Media Lab** and we look forward you joining us.
+* **Hackathon Registration:** [https://www.eventbrite.com/e/mit-fintech-and-design-hackathon-tickets-41403861063](https://www.eventbrite.com/e/mit-fintech-and-design-hackathon-tickets-41403861063)
+
+## Hackathon Challenge 
+
+We worked with various representative from IFRC, Red Cross Climate Center and developed the challenge statement. We invite participants to hack a project that solves our challenge, available at: [https://github.com/mitmedialab/MIT-Humanitarian-Hack/blob/master/MITHack_HumanitarianFinancing_Challenge%20Statement.docx] (Future Financing) [https://github.com/mitmedialab/MIT-Humanitarian-Hack/blob/master/MITHack_HumanitarianFinancing_Challenge%20Statement2.docx] (Identity and Consent Management)
+
+## Hackathon Overview
+
+**The Hackathon will happen on Apr 20, 21 and 22 held at Bartos Theater, MIT Media Lab** and we look forward to you joining us.
 
 Here is tentative schedule with dates and subject to change:
 
