@@ -2,7 +2,7 @@
 
 Welcome to the MIT Humanitarian Hackathon site! 
 
-We worked with various representative from IFRC, Red Cross Climate Center and developed the challenge statement. Here is the link to challenge statement Link: [https://goo.gl/pVvqSp](https://goo.gl/pVvqSp) for you reference.  
+We worked with various representative from IFRC, Red Cross Climate Center and developed the challenge statement.  
 
 **The Hackathon will happen on Apr 20, 21 and 22 held at Bartos Theater, MIT Media Lab** and we look forward you joining us.
 
